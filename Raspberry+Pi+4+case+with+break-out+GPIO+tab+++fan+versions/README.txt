@@ -1,0 +1,1 @@
+Raspberry Pi 4 case with break-out GPIO tab + fan versions by Harryb1991 on Thingiverse: https://www.thingiverse.com/thing:3735600
